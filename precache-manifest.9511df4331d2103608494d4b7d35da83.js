@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "5e40f9fdf10f7d3ce4c460035a6af669",
+    "revision": "74f91015e8cb38b03b71a0d88138c503",
     "url": "./index.html"
   },
   {
@@ -60,12 +60,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "./static/js/9.a3e96ad5.chunk.js"
   },
   {
-    "revision": "598b0070d606ecc0e7ca",
-    "url": "./static/js/main.79f52e0e.chunk.js"
+    "revision": "bf8b8f5e2fc191588453",
+    "url": "./static/js/main.a6f521c5.chunk.js"
   },
   {
     "revision": "67a93825f67a88d7fd79",
     "url": "./static/js/runtime-main.df3a3919.js"
+  },
+  {
+    "revision": "e9472f8d3a3aaf65b9a8332538c9e89b",
+    "url": "./static/media/Analysis.e9472f8d.svg"
   },
   {
     "revision": "0251c28e83621882e4c029f9b834e7b4",
@@ -80,8 +84,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "./static/media/CloseIcon.2ba186d3.svg"
   },
   {
-    "revision": "a9b39b91e7343b380cf2531dfe6ad0af",
-    "url": "./static/media/CoinIcon.a9b39b91.svg"
+    "revision": "e39067b92b99a4c9cea8fd7e07a29390",
+    "url": "./static/media/CoinIcon.e39067b9.svg"
   },
   {
     "revision": "1e148b55f96edd711469acd4f8726160",
@@ -96,8 +100,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "./static/media/Discord.04642ad5.svg"
   },
   {
+    "revision": "c07efe462a89d426297839f127226918",
+    "url": "./static/media/DucumentIcon.c07efe46.svg"
+  },
+  {
     "revision": "da8ec8445d009fb347a1dc0cf9a0ed20",
     "url": "./static/media/FarmImg.da8ec844.svg"
+  },
+  {
+    "revision": "b273416de918f0969c4d4ab6aea175e3",
+    "url": "./static/media/Github.b273416d.svg"
   },
   {
     "revision": "661569afe57a38e1529a775a465da20b",
@@ -264,8 +276,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "./static/media/LinkIcon.051ef3b7.svg"
   },
   {
-    "revision": "9369ec04864d02c5e9c5b8e3aafd7e83",
-    "url": "./static/media/Logo.9369ec04.svg"
+    "revision": "b9153c83928fe5667f07de178ed536ee",
+    "url": "./static/media/Logo.b9153c83.svg"
   },
   {
     "revision": "8b86650276fa801bab5c956909ce3773",
