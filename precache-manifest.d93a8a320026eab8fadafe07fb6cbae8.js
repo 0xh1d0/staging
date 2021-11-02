@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "b3aab37e2e11dee58b9990e32f1409e0",
+    "revision": "1cc0cf04d0a9b78cb7b95ff37f1c49ce",
     "url": "./index.html"
   },
   {
@@ -60,8 +60,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "./static/js/9.84151c41.chunk.js"
   },
   {
-    "revision": "f66d91cf8aad83c00dd5",
-    "url": "./static/js/main.f02057e5.chunk.js"
+    "revision": "899cd32919ba76a778e7",
+    "url": "./static/js/main.d3eed061.chunk.js"
   },
   {
     "revision": "ec2fe1f19a0686db8ce4",
@@ -108,8 +108,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "./static/media/Enya.534e48e8.svg"
   },
   {
-    "revision": "da8ec8445d009fb347a1dc0cf9a0ed20",
-    "url": "./static/media/FarmImg.da8ec844.svg"
+    "revision": "ddc077acfc1fc7aba06cfe4e792b9c79",
+    "url": "./static/media/FarmImg.ddc077ac.svg"
   },
   {
     "revision": "8768e7ed038e3107716ef9a3d5eb37a9",
@@ -292,20 +292,20 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "./static/media/OLOTokenLogo.ac129a37.png"
   },
   {
-    "revision": "06556e0ec4562e1b44aed4516dbc904e",
-    "url": "./static/media/PoolImg.06556e0e.svg"
+    "revision": "f73e04b4f6b12d4c883eb5b40320da6b",
+    "url": "./static/media/PoolImg.f73e04b4.svg"
   },
   {
     "revision": "f76608ffad7b665ecd45593607ed236e",
     "url": "./static/media/SpinBtnIcon.f76608ff.svg"
   },
   {
-    "revision": "1c4745f417fcda40d8e1bad623cff8b9",
-    "url": "./static/media/StakeImg.1c4745f4.svg"
+    "revision": "055ac4f4a4d12c60b542f23850079c51",
+    "url": "./static/media/StakeImg.055ac4f4.svg"
   },
   {
-    "revision": "ebf80708a6bbbd4fe120f9a50e134292",
-    "url": "./static/media/SwapImg.ebf80708.svg"
+    "revision": "1d0a67cb80014939bcb37b17678578d7",
+    "url": "./static/media/SwapImg.1d0a67cb.svg"
   },
   {
     "revision": "a3ea1687024b65153ec106858cea1b9a",
