@@ -2,10 +2,10 @@
   "files": {
     "static/js/0.98073972.chunk.js": "./static/js/0.98073972.chunk.js",
     "static/js/1.6ceedac6.chunk.js": "./static/js/1.6ceedac6.chunk.js",
-    "main.js": "./static/js/main.781ee54a.chunk.js",
+    "main.js": "./static/js/main.5dc2c5d1.chunk.js",
     "runtime-main.js": "./static/js/runtime-main.f2b98442.js",
     "static/css/4.fcba0525.chunk.css": "./static/css/4.fcba0525.chunk.css",
-    "static/js/4.b419736c.chunk.js": "./static/js/4.b419736c.chunk.js",
+    "static/js/4.62f598ea.chunk.js": "./static/js/4.62f598ea.chunk.js",
     "static/js/5.611886d9.chunk.js": "./static/js/5.611886d9.chunk.js",
     "static/js/6.279106fd.chunk.js": "./static/js/6.279106fd.chunk.js",
     "static/js/7.37f42365.chunk.js": "./static/js/7.37f42365.chunk.js",
@@ -14,7 +14,7 @@
     "index.html": "./index.html",
     "service-worker.js": "./service-worker.js",
     "static/js/0.98073972.chunk.js.LICENSE.txt": "./static/js/0.98073972.chunk.js.LICENSE.txt",
-    "static/js/4.b419736c.chunk.js.LICENSE.txt": "./static/js/4.b419736c.chunk.js.LICENSE.txt",
+    "static/js/4.62f598ea.chunk.js.LICENSE.txt": "./static/js/4.62f598ea.chunk.js.LICENSE.txt",
     "static/js/5.611886d9.chunk.js.LICENSE.txt": "./static/js/5.611886d9.chunk.js.LICENSE.txt",
     "static/js/7.37f42365.chunk.js.LICENSE.txt": "./static/js/7.37f42365.chunk.js.LICENSE.txt",
     "static/media/AVAX.963c14c3.png": "./static/media/AVAX.963c14c3.png",
@@ -87,7 +87,7 @@
   "entrypoints": [
     "static/js/runtime-main.f2b98442.js",
     "static/css/4.fcba0525.chunk.css",
-    "static/js/4.b419736c.chunk.js",
-    "static/js/main.781ee54a.chunk.js"
+    "static/js/4.62f598ea.chunk.js",
+    "static/js/main.5dc2c5d1.chunk.js"
   ]
 }
